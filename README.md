@@ -1,2 +1,2 @@
 # Finance
- Financial analysis using Data Science.
+ This repository will store financial and data analysis.
